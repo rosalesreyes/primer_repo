@@ -1,2 +1,2 @@
-# primer_repo
+# Primer repo
 repo to learn 
